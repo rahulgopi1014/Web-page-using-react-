@@ -1,0 +1,36 @@
+/* App.css */
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 0;
+}
+
+.header nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.header nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.header nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.footer {
+  background-color: #f8f9fa;
+  padding: 10px 0;
+}
